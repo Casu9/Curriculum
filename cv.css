@@ -1,5 +1,6 @@
 #principal{
     border:solid 1px rgb(118, 150, 255);
+    background-color: rgb(183, 205, 252);
     margin:0 auto;
     padding: 5px;
     width: 80%
@@ -29,6 +30,43 @@ legend{
     padding: 5px;
     font-weight:bold;
     border-radius: 20px;
-    background: rgb(207, 207, 207);
+    background: rgb(207, 163, 174);
     font-family: "Verdana"
+}
+.container {
+    background-color: rgb(192, 192, 192);
+    width: 80%;
+    border-radius: 15px;
+}
+
+.skill {
+    background-color: rgb(92, 124, 194);
+    color: black;
+    text-align: right;
+    font-size: 15px;
+    border-radius: 15px;
+}
+
+.html {
+    width: 50%;
+}
+
+.php {
+    width: 60%;
+}
+
+.c{
+    width: 70%;
+}
+
+.catala{
+    width: 100%;
+}
+
+.angles{
+    width: 70%;
+}
+
+.frances{
+    width: 50%;
 }
